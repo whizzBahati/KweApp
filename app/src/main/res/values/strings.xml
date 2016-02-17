@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">KweApp</string>
+    <string name="app_title">KweApp</string>
+    <string name="description">Automates monthly subscriptions</string>
+    <string name="skip">Skip</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name_full"><![CDATA[Kwale Welfare & Education Association]]></string>
 </resources>
